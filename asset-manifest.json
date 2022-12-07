@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bfed550.css",
+    "main.js": "/static/js/main.ebc81374.js",
+    "static/js/787.5d7f85f9.chunk.js": "/static/js/787.5d7f85f9.chunk.js",
+    "static/media/noisebg.png": "/static/media/noisebg.fa088b8e9cff0a90bffc.png",
+    "static/media/board.png": "/static/media/board.dfd4fc00854c04f946f0.png",
+    "static/media/tiltbulb.png": "/static/media/tiltbulb.c32643c7f0580058bc78.png",
+    "static/media/bgnoise.png": "/static/media/bgnoise.671f59e83f668b61909f.png",
+    "static/media/iosbtn.png": "/static/media/iosbtn.6d5de9af4b683c514655.png",
+    "static/media/flash.png": "/static/media/flash.fcc6bbadb57d27acb123.png",
+    "static/media/androidbtn.png": "/static/media/androidbtn.c9fe7435d0f086a452c3.png",
+    "static/media/energy.png": "/static/media/energy.24725366898ebaf332fe.png",
+    "static/media/calender.svg": "/static/media/calender.8764c6ff2804949b7552bd25d5bc93c1.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/stations.svg": "/static/media/stations.01f2e3b4caa5245d47e1a8e45977fbc9.svg",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/badge.svg": "/static/media/badge.e6bdb4d447e1468dead61355dcd07c89.svg",
+    "static/media/light.svg": "/static/media/light.6b45f38c28a9df207d7e10689e64cceb.svg",
+    "main.2bfed550.css.map": "/static/css/main.2bfed550.css.map",
+    "main.ebc81374.js.map": "/static/js/main.ebc81374.js.map",
+    "787.5d7f85f9.chunk.js.map": "/static/js/787.5d7f85f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bfed550.css",
+    "static/js/main.ebc81374.js"
+  ]
+}
